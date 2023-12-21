@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/NusRAT-LiA/Eth_Dapp/issues"
   },
-  "homepage": "https://github.com/NusRAT-LiA/Eth_Dapp#readme"
+  "homepage": "https://github.com/NusRAT-LiA/Eth_Dapp#readme",
+  "dependencies": {
+    "ethereumjs-tx": "^2.1.2",
+    "web3": "^4.3.0"
+  }
 }
