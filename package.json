@@ -18,6 +18,8 @@
   "homepage": "https://github.com/NusRAT-LiA/Eth_Dapp#readme",
   "dependencies": {
     "ethereumjs-tx": "^2.1.2",
-    "web3": "^4.3.0"
+    "solc": "^0.8.23-fixed",
+    "web3": "^4.3.0",
+    "web3.js-browser": "^0.2.0"
   }
 }
